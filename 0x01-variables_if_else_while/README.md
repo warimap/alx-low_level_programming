@@ -30,3 +30,4 @@ All of the following files are programs written in C:
 # ANSWERS
 
 The following link contains answers given for each task and  are explained in depth.
+<a href="https://docs.google.com/document/d/11jmWfFDAUjqe4CV66P-3__9vdrLRMPsy64HAQI5Geko/edit?usp=sharing"></a> 
