@@ -25,7 +25,7 @@ All of the following folders are projects done during the studies:
 - I am on my way to be the best software engineer that I  can possibly  be!!
 
 ## Author 
-+ [Faith Warima Ng'endo](linktr.ee/faith W Ng'endo)
++ [Faith Warima Ng'endo](linktr.ee/Pharium Warima)
 
 ---
 
