@@ -1,11 +1,38 @@
 # Functions, nested loops
 
 Project done during **Full Stack Software Engineering studies** at **ALX  SOFTWARE ENGINEERING COURSE**. It aims to learn about header files, functions, loops and nested loops in **C language**.
+In this project, I learned about nested loops, header files, and variable scope
+in C while practicing declaring and defining my own functionsi.
 
 ## Technologies
 * C files are compiled using `gcc 4.8.4`
 * C files are written according to the C90 standard
 * Tested on Ubuntu 14.04 LTS
+
+## Helper File :raised_hands:
+
+* [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
+
+## Header File :file_folder:
+
+* [main.h](./main.h): Header file containing prototypes for all
+functions written in the project.
+
+| File                     | Prototype                        |
+| ------------------------ | -------------------------------- |
+| `1-alphabet.c`           | `void print_alphabet(void);`     |
+| `2-print_alphabet_x10.c` | `void print_alphabet_x10(void);` |
+| `3-islower.c`            | `int _islower(int c);`           |
+| `4-isalpha.c`            | `int _isalpha(int c);`           |
+| `5-sign.c`               | `int print_sign(int n);`         |
+| `6-abs.c`                | `int _abs(int);`                 |
+| `7-print_last_digit.c`   | `int print_last_digit(int);`     |
+| `8-24_hours.c`           | `void jack_bauer(void);`         |
+| `9-times_table.c`        | `void times_table(void)`         |
+| `10-add.c`               | `int add(int, int);`             |
+| `11-print_to_98.c`       | `void print_to_98(int n);`       |
+| `100-times_table.c`      | `void print_times_table(int n)`  |
+
 
 ## Files
 All of the following files are programs written in C:
