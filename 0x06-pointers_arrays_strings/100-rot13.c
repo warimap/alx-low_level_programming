@@ -6,22 +6,22 @@
  */
 char *rot13(char *s)
 {
-    char *result = (char *) malloc(sizeof(char) * (strlen(s) + 1));
-    if (result == NULL) {
-        return NULL;
-    }
+	int count = 0, i;
+	char alphabet[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	char rot13[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
 
-    int i;
-    for (i = 0; s[i] != '\0'; i++) {
-        if (s[i] >= 'a' && s[i] <= 'z') {
-            result[i] = ((s[i] - 'a' + 13) % 26) + 'a';
-        } else if (s[i] >= 'A' && s[i] <= 'Z') {
-            result[i] = ((s[i] - 'A' + 13) % 26) + 'A';
-        } else {
-            result[i] = s[i];
-        }
-    }
-    result[i] = '\0';
+	while (*(s + count) != '\0')
+	{
+		for (i = 0; i < 52; i++)
+		{
+			if (*(s + count) == alphabet[i])
+			{
+				*(s + count) = rot13[i];
+				break;
+			}
+		}
+		count++;
+	}
 
-    return result;
+	return (s);
 }
