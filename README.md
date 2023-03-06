@@ -19,6 +19,11 @@ All of the following folders are projects done during the studies:
 | [`0x03-debugging`](https://github.com/warimap/alx-low_level_programming/tree/master/0x03-debugging) | It aims to learn how to debug in **C language** |
 | [`0x04-more_functions_nested_loops`](https://github.com/warimap/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops) | It aims to learn about nested loops in **C language** |
 | [`0x05-pointers_arrays_strings`](https://github.com/warimap/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+| [`0x06-pointers_arrays_strings`](https://github.com/warimap/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+| [`0x07-pointers_arrays_strings`](https://github.com/warimap/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings) | It aims to learn about pointers and arrays in **C language** |
+
+
+
 
 - more projects are coming soon!!
 - I am on my way to be the best software engineer that I  can possibly  be!!
