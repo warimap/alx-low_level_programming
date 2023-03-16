@@ -11,7 +11,6 @@ void add_nums(char *final_prod, char *next_prod, int next_len);
 /**
  * find_len - Finds the length of a string.
  * @str: The string to be measured.
- *
  * Return: The length of the string.
  */
 int find_len(char *str)
@@ -28,7 +27,6 @@ int find_len(char *str)
  * create_xarray - Creates an array of chars and initializes it with
  *                 the character 'x'. Adds a terminating null byte.
  * @size: The size of the array to be initialized.
- *
  * Description: If there is insufficient space, the
  *              function exits with a status of 98.
  * Return: A pointer to the array.
@@ -51,11 +49,11 @@ char *create_xarray(int size)
 	return (array);
 }
 
+
 /**
  * iterate_zeroes - Iterates through a string of numbers containing
  *                  leading zeroes until it hits a non-zero number.
  * @str: The string of numbers to be iterate through.
- *
  * Return: A pointer to the next non-zero element.
  */
 char *iterate_zeroes(char *str)
@@ -65,11 +63,9 @@ char *iterate_zeroes(char *str)
 
 	return (str);
 }
-
 /**
  * get_digit - Converts a digit character to a corresponding int.
  * @c: The character to be converted.
- *
  * Description: If c is a non-digit, the function
  *              exits with a status of 98.
  * Return: The converted int.
@@ -83,7 +79,6 @@ int get_digit(char c)
 		printf("Error\n");
 		exit(98);
 	}
-
 	return (digit);
 }
 
@@ -93,7 +88,6 @@ int get_digit(char c)
  * @mult: The string of numbers.
  * @digit: The single digit.
  * @zeroes: The necessary number of leading zeroes.
- *
  * Description: If mult contains a non-digit, the function
  *              exits with a status value of 98.
  */
@@ -182,7 +176,6 @@ void add_nums(char *final_prod, char *next_prod, int next_len)
  * main - Multiplies two positive numbers.
  * @argv: The number of arguments passed to the program.
  * @argc: An array of pointers to the arguments.
- *
  * Description: If the number of arguments is incorrect or one number
  *              contains non-digits, the function exits with a status of 98.
  * Return: Always 0.
