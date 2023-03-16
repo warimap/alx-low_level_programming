@@ -25,7 +25,7 @@ All of the following folders are projects done during the studies:
 | [`0x09-static_libraries`](https://github.com/warimap/alx-low_level_programming/tree/master/0x09-static_libraries) | It aims to learn about static libraries in **C language** |
 | [`0x0A-argc_argv`](https://github.com/warimap/alx-low_level_programming/tree/master/0x0A-argc_argv) | It aims to learn about how to use arguments passed to a program in **C language** |
 | [`0x0B-malloc_free`](https://github.com/warimap/alx-low_level_programming/tree/master/0x0B-malloc_free) | It aims to learn about automatic and dynamic allocation in **C language** |
-
+| [`0x0C-more_malloc_free`](https://github.com/warimap/alx-low_level_programming/tree/master/0x0C-more_malloc_free) | It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in **C language** |
 
 
 
@@ -39,4 +39,4 @@ All of the following folders are projects done during the studies:
 
 ## WARNING!!
 - This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
-- This repo may contain some errors. If you notice any, please add a pull request.
+- This repo may contain some errors. If you notice ainy, please add a pull request.
