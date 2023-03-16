@@ -18,3 +18,7 @@ All of the following files are programs written in C:
 | `100-realloc.c` | Reallocates a memory block using `malloc` and `free` |
 | `101-mul.c` | Multiplies two positive numbers |
 
+# ANSWERS
+
+The following link contains answers given for each task and  are explained in depth.
+<a href="https://docs.google.com/document/d/1lYvAwHDIyxXTiBLC30neRHtwQC0-QEsLHXB9IIW2HDE/edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS</a> 
