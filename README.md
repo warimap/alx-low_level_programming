@@ -40,4 +40,4 @@ All of the following folders are projects done during the studies:
 
 ## WARNING!!
 - This repo is done as a school assignment. Beware of copying my responses. I recommend you  to read resources and come up with your own solutions instead. Feel free to reach out for help!
-- This repo may contain some errors. If you notice ainy, please add a pull request.
+- This repo may contain some errors. If you notice any, please add a pull request.
