@@ -27,3 +27,13 @@ All of the following files are programs written in C:
 | `101-print_listint_safe.c` | Prints a `listint_t` linked list |
 | `102-free_listint_safe.c` | Frees a `listint_t` list |
 | `103-find_loop.c` | Finds the loop in a linked list |
+
+
+# ANSWERS
+
+The following link contains answers given for each task and  are explained in depth.
+<a href="https://docs.google.com/document/d/1aDrYaupIyFke4joj-pyse656x7CyTem1V0EEEekH3bw/edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS</a> 
+
+# AUTHOR 
+* FAITH WARIMA NG'ENDO AKA PHARIUM 
+FOR ANY QUESTION OR ELABORATION KINDLY REACH OUT. 
