@@ -29,5 +29,6 @@ The following link contains answers given for each task and  are explained in de
 
  ## Project Performance
 
-![Screenshot_c](https://github.com/warimap/alx-low_level_programming/assets/123955570/448c59c0-4cc4-4157-a2e9-dfd394d4d070)
+![Screenshot_c hello](https://github.com/warimap/alx-low_level_programming/assets/123955570/ca8ec369-14a1-437a-bd0c-efd935967f5d)
+
  
