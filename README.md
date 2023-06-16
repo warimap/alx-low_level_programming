@@ -39,6 +39,7 @@ All of the following folders are projects done during the studies:
 | [`0x1A-hash_tables`](https://github.com/warimap/alx-low_level_programming/tree/master/0x1A-hash_tables) | It aims to learn how to implement Hash Tables with **C language** |
 
 
+![Screenshot_month 0](https://github.com/warimap/alx-low_level_programming/assets/123955570/f1393b4e-b431-45f8-8d7c-428d8c3b6ee8)
 
 
 
