@@ -33,6 +33,7 @@ The following link contains answers given for each task and  are explained in de
 <a href="https://docs.google.com/document/d/11jmWfFDAUjqe4CV66P-3__9vdrLRMPsy64HAQI5Geko/edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS</a> 
 
 ## Project Performance
-![Screenshot_c variables](https://github.com/warimap/alx-low_level_programming/assets/123955570/52dea091-6ed9-4d66-a55e-33240bd31e69)
+![Screenshot variables if else](https://github.com/warimap/alx-low_level_programming/assets/123955570/bf8f1c6a-8400-4992-8670-f1c34d52d78e)
+
 
 
