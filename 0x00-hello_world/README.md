@@ -26,3 +26,8 @@ All of the following files are scripts and programs written in C:
 ## ANSWERS
 The following link contains answers given for each task and  are explained in depth.
  <a href="https://docs.google.com/document/d/1zkd1-Jb6-wB30tGKkj9YSQveHyy9aSWuFg3vtg6UvZo/edit?usp=sharing"> ALL ANSWERS FOR THE TASK EXPLAINED IN DEPTH</a>
+
+ ## Project Performance
+
+![Screenshot_c](https://github.com/warimap/alx-low_level_programming/assets/123955570/448c59c0-4cc4-4157-a2e9-dfd394d4d070)
+ 
