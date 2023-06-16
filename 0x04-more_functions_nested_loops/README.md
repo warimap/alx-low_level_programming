@@ -28,3 +28,7 @@ All of the following files are programs written in C:
 
 The following link contains answers given for each task and  are explained in depth.
 <a href="https://docs.google.com/document/d/1cF7TXd21t_eWzr07g6RLaAncYNuOvbpgJ_-6D6lcy7s/edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS FOR 0x04-more_functions_nested_loops </a> 
+
+## Project Performance
+![Screenshot_c more function](https://github.com/warimap/alx-low_level_programming/assets/123955570/53d68efe-1706-4da6-ae53-0168597db912)
+
