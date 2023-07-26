@@ -43,7 +43,6 @@ All of the following folders are projects done during the studies:
 
 
 
-
 - more projects are coming soon!!
 - I am on my way to be the best software engineer that I  can possibly  be!!
 

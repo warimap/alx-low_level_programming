@@ -17,3 +17,5 @@ All of the following files are programs written in C:
 | `2-largest_number.c` | Prints the largest of three integers |
 | `3-print_remaining_days.c` | Converts a date to the day of year and determines how many days are left in the year |
 | `main.h` | Header file |
+ ## Project Performance 
+ ![Screenshot_c debugging](https://github.com/warimap/alx-low_level_programming/assets/123955570/0cc3d478-3998-4f76-9205-8b4544fe0c9c)

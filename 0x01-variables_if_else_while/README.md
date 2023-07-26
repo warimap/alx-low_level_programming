@@ -31,3 +31,9 @@ All of the following files are programs written in C:
 
 The following link contains answers given for each task and  are explained in depth.
 <a href="https://docs.google.com/document/d/11jmWfFDAUjqe4CV66P-3__9vdrLRMPsy64HAQI5Geko/edit?usp=sharing">DOCUMENT CONTAINING EXPLAINED ANSWERS</a> 
+
+## Project Performance
+![Screenshot variables if else](https://github.com/warimap/alx-low_level_programming/assets/123955570/bf8f1c6a-8400-4992-8670-f1c34d52d78e)
+
+
+

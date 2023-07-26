@@ -56,3 +56,7 @@ All of the following files are programs written in C:
 | `102-fibonacci.c` | Prints the first 50 Fibonacci numbers, starting with `1` and `2` |
 | `103-fibonacci.c` | Finds and prints the sum of the even-valued terms |
 | `104-fibonacci.c` | Finds and prints the first 98 Fibonacci numbers |
+
+## Project Performance
+![Screenshot_c function nested loops](https://github.com/warimap/alx-low_level_programming/assets/123955570/054e6665-6651-4024-a763-839bc04549bb)
+
